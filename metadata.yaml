@@ -1,0 +1,43 @@
+_repo: A-thousand-miles-up-the-Nile_70565
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edwards, Amelia B.
+    aliases:
+    - Edwards, Amelia Blanford
+    - Edwards, Amelia Ann Blanford
+    birthdate: 1831
+    deathdate: 1892
+    gutenberg_agent_id: '2716'
+    url: http://www.gutenberg.org/2009/agents/2716
+    wikipedia: https://en.wikipedia.org/wiki/Amelia_Edwards
+description: ''
+gutenberg_issued: '2023-04-16'
+identifiers:
+  gutenberg: '70565'
+language: en
+pgterms:marc904: https://archive.org/details/thousandmilesupn00amel/mode/1up
+pgterms:marc905: 20220228034407edwards
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aUnited States :$bA.L.Burt, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Nile River -- Description and travel'
+- !lcsh 'Egypt -- History -- 19th century'
+- !lcc 'DT'
+- GITenberg
+tableOfContents: Cairo and the Great Pyramid -- Cairo and the Mecca pilgrimage --
+  Cairo to Bedreshayn -- Sakkârah and Memphis -- Bedreshayn to Minieh -- Minieh to
+  Siût -- Siût to Denderah -- Thebes and Karnak -- Thebes to Assûan -- Assûan and
+  Elephantine -- The cataract and the desert -- Philæ -- Philæ to Korosko -- Korosko
+  to Abou Simbel -- Rameses the Great -- Abou Simbel -- The second cataract -- Discoveries
+  at Abou Simbel -- Back through Nubia -- Silsilis and Edfu -- Thebes -- Abydus and
+  Cairo.
+title: A thousand miles up the Nile
+url: http://www.gutenberg.org/ebooks/70565
