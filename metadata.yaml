@@ -1,5 +1,8 @@
 _repo: A-thousand-miles-up-the-Nile_70565
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70565-h/images/cover.jpg
 creator:
   author:
     agent_name: Edwards, Amelia B.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2716
     wikipedia: https://en.wikipedia.org/wiki/Amelia_Edwards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70565#A-thousand-miles-up-the-Nile
 gutenberg_issued: '2023-04-16'
 identifiers:
   gutenberg: '70565'
